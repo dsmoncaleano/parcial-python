@@ -1,0 +1,4 @@
+Total de líneas: 4
+Total de palabras: 4
+Total de caracteres: 28
+Frecuencia de la palabra 'ejemplo': 0
